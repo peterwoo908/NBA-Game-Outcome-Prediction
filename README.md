@@ -27,7 +27,7 @@ Predictor Variables:
 | FG3_PCT_n      | Float       | Average 3 point field goal percentage in last **n** number of games (Decimal from 0 to 1)               |
 | WIN_n_x        | Float       | Win percentage in last **n** number of games (Decimal from 0 to 1)                                      |
 | diff_n_x       | Float       | Average point differential in last **n** number of games                                                |
-| home_next      | Binary      | Is next game being played at home arena (1 = Yes, 0 = No                                                |
+| home_next      | Binary      | Is next game being played at home arena (1 = Yes, 0 = No)                                               |
 | PTS_opp_n      | Float       | Average number of points scored in **opponent's** last **n** number of games                            |
 | AST_opp_n      | Float       | Average number of assists in **opponent's** last **n** number of games                                  |
 | REB_opp_n      | Float       | Average number of rebounds in **opponent's** last **n** number of games                                 |
