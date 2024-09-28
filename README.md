@@ -1,2 +1,2 @@
-# NBA-Game-Outcome-Prediction
-NBA Game Outcome Classification Analysis
+# NBA Game Outcome Prediction
+This project is a classification predictive analysis for NBA Game Outcomes (Win/Loss)
